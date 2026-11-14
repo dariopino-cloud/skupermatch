@@ -136,7 +136,7 @@ Source basis: team-supplied `general-rules.md`, `biscuit-brief.md` and `Anweisun
 
 Die Drei Muskeltiere:
 
-- Dario
+- Dario Pino
 - Sudhin Hegde
 - Kushal Patel
 
