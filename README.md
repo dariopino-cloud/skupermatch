@@ -32,6 +32,10 @@ with similar names may differ in variant or pack size.
 Purchasing creates supplier items and answers clarification questions.
 The information stays connected to the item throughout the review process.
 
+Supplier item data cannot be edited freely after creation. Purchasing
+can correct it only while answering a clarification question, so every
+correction is tied to a documented question and answer.
+
 ### Match Arena — Product Data and Quality
 
 Product Data selects or confirms the candidate shop product in Match Arena.

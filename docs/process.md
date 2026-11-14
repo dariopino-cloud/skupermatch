@@ -51,6 +51,10 @@ Product Data raises a question linked to the supplier item.
 Purchasing answers it and corrects the source information where appropriate.
 Product Data reviews the clarification before completing the decision.
 
+Supplier item data cannot be edited freely after creation. Purchasing
+can correct it only while answering a clarification question, so every
+correction is tied to a documented question and answer.
+
 An answer and a resolved question are different business events:
 receiving an answer does not, by itself, establish product identity.
 
