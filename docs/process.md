@@ -67,7 +67,7 @@ The business process requires:
 - An entered selling price.
 - No open clarification question.
 
-Launch Board shows the current blockers as text. Its blocker list is
+Launch Board shows the current blockers. Its blocker list is
 calculated on each query rather than persisted separately.
 
 ## Evaluation and boundaries
